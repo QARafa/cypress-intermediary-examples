@@ -1,0 +1,15 @@
+{
+  "name": "cypress-intermediary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rafael santos",
+  "license": "MIT",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "7.6.0",
+    "cypress": "12.0.2",
+    "cypress-plugin-api": "2.6.1"
+  }
+}
