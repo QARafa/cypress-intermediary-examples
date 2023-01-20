@@ -2,7 +2,7 @@
 
 ## Testes automatizados com Cypress (intermediário)
 
-Repositório tem como função armazenar o Projeto realizado em cima do Curso de Cypress intermediário do Waldyr Filho
+Repositório tem como função armazenar o Projeto realizado em cima do Curso de Cypress intermediário do Waldyr Filho com foco em otimização de testes de GUI com de chamadas APIs
 
 **Descrição:**
 
