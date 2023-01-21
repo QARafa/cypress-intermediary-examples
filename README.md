@@ -11,6 +11,6 @@ Repositório tem como função armazenar o Projeto realizado em cima do Curso de
 * Versão Cypress: 12.2.0
 * Linguagem: JavaScript
 * IDE: Vscode
-* Ambienter Local em Docker 
+* Ambiente Local com Docker 
 
 
